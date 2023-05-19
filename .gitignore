@@ -1,0 +1,8 @@
+*.txt
+*.parquet
+*.pdf
+*.csv
+venv/
+.venv
+.index
+index/
